@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/shultzp1/OneDrive - Embry-Riddle Aeronautical University/chess",
-      "program": "c:/Users/shultzp1/OneDrive - Embry-Riddle Aeronautical University/chess/build/Debug/outDebug",
+      "cwd": ".",
+      "program": "build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

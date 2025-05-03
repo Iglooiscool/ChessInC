@@ -1,7 +1,10 @@
 #include <stdio.h>
+#include <stdint.h>
+
+typedef uint64_t Bitboard;
 
 
-void main()
+int main()
 {
-    
+   
 }
